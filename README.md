@@ -1,4 +1,6 @@
 # jstree
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fjstree.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fjstree?ref=badge_shield)
+
 
 [jsTree](http://www.jstree.com/) is jquery plugin, that provides interactive trees. It is absolutely free, [open source](https://github.com/vakata/jstree) and distributed under the MIT license.
 
@@ -661,3 +663,6 @@ If you want to you can always [donate a small amount][paypal] to help the develo
 Copyright (c) 2014 Ivan Bozhanov (http://vakata.com)
 
 Licensed under the [MIT license](http://www.opensource.org/licenses/mit-license.php).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fjstree.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fjstree?ref=badge_large)
